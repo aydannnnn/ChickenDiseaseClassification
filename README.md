@@ -116,8 +116,3 @@ MobileNetV2
 ![MobileNetV2](images/acc_mobile.png)
 
 Grafik menunjukkan bahwa VGG16 sedikit lebih unggul dalam akurasi dibandingkan MobileNetV2, tetapi keduanya tetap kompetitif.
-
----
-
-Jika Anda memiliki pertanyaan atau ingin berkontribusi, silakan hubungi kami atau buat pull request pada repository ini. Terima kasih telah menggunakan aplikasi kami!
-
