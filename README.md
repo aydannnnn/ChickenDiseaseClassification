@@ -110,8 +110,10 @@ Berikut adalah hasil perbandingan kinerja model menggunakan metrik **Akurasi**, 
 ### Grafik Performa
 Berikut adalah grafik perbandingan akurasi antara kedua model:
 
-![VGG16 Loss](images/loss_vgg.png)|[Accuracy](images/acc_vgg.png)
-![MobileNetV2 Loss](images/loss_mobile.png)|[Accuracy](images/acc_mobile.png)
+VGG16
+![VGG16](images/acc_vgg.png)
+MobileNetV2
+![MobileNetV2](images/acc_mobile.png)
 
 Grafik menunjukkan bahwa VGG16 sedikit lebih unggul dalam akurasi dibandingkan MobileNetV2, tetapi keduanya tetap kompetitif.
 
